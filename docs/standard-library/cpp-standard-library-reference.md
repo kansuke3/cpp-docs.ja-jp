@@ -25,7 +25,7 @@ C ++ プログラムは、C++ 標準ライブラリのこのに準拠した実�
 [C++ 標準ライブラリの概要](../standard-library/cpp-standard-library-overview.md)\
 C++ 標準ライブラリの Microsoft の実装の概要を説明します。
 
-[`iostream` 番組](../standard-library/iostream-programming.md)\
+[`iostream` プログラム](../standard-library/iostream-programming.md)\
 プログラミングの概要について説明 `iostream` します。
 
 [ヘッダーファイルのリファレンス](../standard-library/cpp-standard-library-header-files.md)\
